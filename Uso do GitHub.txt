@@ -1,0 +1,6 @@
+O GitHub é uma plataforma de hospedagem de projetos, os respositorios, que podem ser públicos
+ou até mesmo projetos privados. Os projetos presentes no GitHub tem seus arquivos liberados 
+de forma independete, sem afetar a ramificação/branch principal. Sendo asssim, caso o principal
+contribuidor do projeto pode sempre unificar e aceitar todas alterações que ele julgar como 
+devidas. Além disso, mesmo após feitas essas alterações ainda será possível verificar as versões
+mais antigas desses arquivos e assim poder verificar o produto base caso necessário no futuro.
