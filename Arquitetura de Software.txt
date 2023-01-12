@@ -1,0 +1,4 @@
+A arquitetura de software é reponsável pela definição do que será composto um projeto, as suas
+características, suas funções e também em como elas deverão interagir entre si e também com
+os outros softwares. Em outras palavras, ela estará responsabilizada sobre a organização de
+um sistema que será desenvolvido
