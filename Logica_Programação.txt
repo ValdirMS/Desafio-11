@@ -1,0 +1,4 @@
+A Lógica de Programação é uma técnica para progamação que é usada para organizar através de
+uma sequência lógica de passos em que a maquina/computador possa entender claramente
+os conjuntos de instruções e obter o resultado esperado que estarão voltados
+à resolução de algum problema existente e/ou para a criação de um software.  
